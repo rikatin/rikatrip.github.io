@@ -1,0 +1,59 @@
+body {
+	line-height: 1;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+	text-align: center;
+}
+
+.header{
+	float: left;
+	font-size: 40px;
+	margin-left:100px;
+	font-family: Hello Santtiny;
+}
+
+.header-list{
+	float: right;
+	margin-right: 100px;
+	margin-top: 10px;
+}
+
+
+.sns{
+	height: 50px;
+	width: 50px
+	margin:20px;
+	padding-left: 30px;
+}	
+
+.main{
+	width: 100%;
+}
+.main-pt{
+	width: 100%;
+	margin-top: 50px;
+}
+
+.main2{
+	color: black;
+	font-size: 48px;
+	font-family: "Hello Santtiny";
+	margin-top: 100px;
+}
+
+.footer2{
+	background-color: #555555;
+	height: 50px;
+	width: 100%;
+}
+
+h6{
+	padding-top: 20px;
+	color: #fff;
+	font-size: 12px;
+	font-family: メイリオ;
+}
