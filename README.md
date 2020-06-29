@@ -1,0 +1,1 @@
+# rikatrip.github.io
