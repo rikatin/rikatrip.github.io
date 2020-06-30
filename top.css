@@ -22,7 +22,11 @@ body {
 	margin-top: 10px;
 }
 
-
+.list1{
+	padding-right: 50px;
+	text-decoration: none;
+	color: inherit;
+}
 .sns{
 	height: 50px;
 	width: 50px
