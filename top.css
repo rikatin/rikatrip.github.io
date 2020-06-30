@@ -20,17 +20,18 @@ h1,.logo{
 	color: inherit;
 }
 
+.list1{
+	padding-right: 50px;
+	text-decoration: none;
+	color: inherit;
+}
+
 .header-list{
 	float: right;
 	margin-right: 100px;
 	margin-top: 10px;
 }
 
-.list1{
-	padding-right: 50px;
-	text-decoration: none;
-	color: inherit;
-}
 
 .sns{
 	height: 50px;
@@ -43,27 +44,131 @@ h1,.logo{
 	width: 100%;
 }
 
-.main-pt{
-	width: 100%;
-	margin-top: 50px;
+
+.content1{
+	margin-top: 150px;
+	font-family: 游明朝;
+	font-size: 72px;
+}
+
+.content2{
+	font-family: 游明朝;
+	font-size: 24px;
 }
 
 h2{
 	color: black;
 	font-size: 48px;
-	font-family: "Hello Santtiny";
-	margin-top: 100px;
+	font-family:"Hello Santtiny";
+	margin-top: 150px;
+}
+
+.main-pt1{
+	width: 70%;
+	margin-top: 50px;
+	float: left;
+	position:relative;
+}
+
+.main1{
+	background-color: #cdcdcd;
+	height: 200px;
+	width: 600px;
+	opacity: 0.5;
+	float: right;
+	position:relative;
+     bottom: 100px;
+}
+
+.main1-1{
+	position:relative;
+	top:400px;
+	right: 50px;
+}
+
+.main1-2{
+	position:relative;
+	top:20px;
+	left:350px;
+	color: inherit;
+}
+
+.main-pt2{
+	width: 70%;
+	margin-top: 50px;
+	float: right;
+	position:relative;
+}
+
+.main2{
+	background-color: #cdcdcd;
+	height: 200px;
+	width: 600px;
+	opacity: 0.5;
+	float: left;
+	position:relative;
+     bottom: 100px;
+}
+
+.main2-1{
+	position:relative;
+	top:930px;
+	right: 1000px;
+}
+.main2-2{
+	position:relative;
+	top:20px;
+	left:350px;
+	color: inherit;
+}
+
+.main3{
+	background-color: #cdcdcd;
+	height: 200px;
+	width: 600px;
+	opacity: 0.5;
+	float: right;
+	position:relative;
+     bottom: 100px;
+}
+
+.main3-1{
+	position:relative;
+	top:1460px;
+	right: 50px;
+}
+
+.main3-2{
+	position:relative;
+	top:20px;
+	left:350px;
+	color: inherit;
+}
+
+.main-pt3{
+	width: 70%;
+	margin-top: 50px;
+	float: left;
+	position:relative;
+}
+
+.foot{
+	position:relative;
+	top:1500px;
+	left: 150px;
 }
 
 .footer2{
 	background-color: #555555;
 	height: 50px;
 	width: 100%;
+	margin-top: 1500px;
 }
 
 h6{
 	padding-top: 20px;
 	color: #fff;
 	font-size: 12px;
-	font-family:メイリオ;
+	font-family: メイリオ;
 }
+
