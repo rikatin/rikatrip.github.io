@@ -27,6 +27,7 @@ body {
 	text-decoration: none;
 	color: inherit;
 }
+
 .sns{
 	height: 50px;
 	width: 50px
@@ -37,6 +38,7 @@ body {
 .main{
 	width: 100%;
 }
+
 .main-pt{
 	width: 100%;
 	margin-top: 50px;
