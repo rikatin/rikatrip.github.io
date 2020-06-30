@@ -9,11 +9,15 @@ body {
 	text-align: center;
 }
 
-.header{
+h1,.logo{
 	float: left;
 	font-size: 40px;
-	margin-left:100px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left:50px;
 	font-family: Hello Santtiny;
+	text-decoration: none;
+	color: inherit;
 }
 
 .header-list{
